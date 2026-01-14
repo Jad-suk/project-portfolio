@@ -22,5 +22,5 @@ Developed and validated design improvements for a low-noise cooling fan through 
 https://github.com/Jad-suk/project-portfolio/tree/main/assets/quiet-fan
 
 ## Tools / Methods
-Lab testing, measurement & analysis (SPL meter, airflow measurement, anenomter, solidworks)
+Lab testing, measurement & analysis (SPL meter, 3D printing, anenomter, solidworks)
 
