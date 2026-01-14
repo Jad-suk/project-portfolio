@@ -39,7 +39,7 @@ Developing a fast estimation workflow to predict **ΔLMP** under system variatio
 > *(Final quantitative results will be added upon project completion.)*
 
 ## 11) Media (Codes / Figures / Plots)
-
+https://github.com/Jad-suk/project-portfolio/tree/main/assets/fyp.md
 ---
 
 ## Scope note
