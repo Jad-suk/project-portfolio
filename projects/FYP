@@ -4,12 +4,10 @@
 **Type:** Final Year Project (Team / Academic)  
 **Status:** Ongoing
 
----
 
 ## 1) Overview
 This project develops a **fast estimation workflow** to predict how **Local Marginal Prices (LMPs)** change under system variations, reducing the need to rerun a full optimization-based computation for every “what-if” scenario. The goal is to enable faster screening, sensitivity analysis, and scenario exploration while maintaining acceptable accuracy.
 
----
 
 ## 2) Motivation (Why this matters)
 LMP studies are often repeated across many scenarios, such as:
@@ -23,7 +21,6 @@ Running the full reference computation repeatedly can become slow when the scena
 - prioritize “important” cases for full reruns,
 - support large-scale sensitivity studies.
 
----
 
 ## 3) Objective
 **Primary objective:**  
@@ -34,7 +31,6 @@ Estimate **ΔLMP** (change in LMPs) relative to a baseline operating point with 
 - quantify the accuracy–speed tradeoff,
 - build a reproducible evaluation pipeline (inputs → outputs → metrics → plots).
 
----
 
 ## 4) Scope (Public vs Private)
 **Included publicly:**
@@ -48,7 +44,6 @@ Estimate **ΔLMP** (change in LMPs) relative to a baseline operating point with 
 
 > Detailed technical material and code can be shared upon request when appropriate.
 
----
 
 ## 5) High-Level Methodology
 ### A) Baseline and reference (“ground truth”)
@@ -78,7 +73,6 @@ For each scenario:
 - compute reference LMPs,
 - quantify error metrics and runtime improvements.
 
----
 
 ## 6) Time-Series Sampling Strategy (2-week + 1-week)
 To avoid evaluating the estimator on only a single snapshot, experiments are performed on **time-series operating points**.
@@ -98,7 +92,6 @@ This structure helps ensure the estimator is tested across:
 - **Development loop:** iterate quickly on the **1-week subset** (short cycles, frequent changes).
 - **Validation loop:** periodically evaluate on the full **2-week window** to confirm generalization and avoid overfitting to one segment.
 
----
 
 ## 7) Evaluation Framework
 ### Accuracy metrics
@@ -117,14 +110,12 @@ This structure helps ensure the estimator is tested across:
 - behavior under congested vs non-congested conditions,
 - sensitivity to magnitude of perturbations.
 
----
 
 ## 8) Current Status (In progress)
 - Baseline + scenario evaluation pipeline established.
 - Estimation workflow implemented and being refined iteratively.
 - Benchmarking plots and summary tables being expanded as scenario coverage grows.
 
----
 
 ## 9) Deliverables
 - Fast estimation workflow (scenario → estimated LMP → metrics)
@@ -132,19 +123,16 @@ This structure helps ensure the estimator is tested across:
 - Result package (plots + summary tables)
 - Final report / thesis (upon completion)
 
----
 
 ## 10) Tools
 - **Python** (experiments, benchmarking, plots, workflow automation)
 - **MATLAB** (modeling/validation tasks as needed)\
 - **Excel** 
 
----
 
 ## 11) Media (Figures / Plots)
 
 
----
 
 ## 12) Notes
 This page provides a public-safe summary only. Detailed implementation and sensitive material may be kept private and shared upon request when appropriate.
