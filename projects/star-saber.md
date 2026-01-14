@@ -16,8 +16,8 @@ A team-built interactive embedded system focused on responsive behavior and reli
 - Working system prototype and demo-ready behavior.
 - Documented design decisions and testing outcomes.
 
-## Media
-
+## Media / pdfs
+https://github.com/Jad-suk/project-portfolio/tree/main/assets/star-saber
 
 ## Tools
 ESP32, C/C++, accelometer, motor, LDR, load cell, distance sensor, led system
