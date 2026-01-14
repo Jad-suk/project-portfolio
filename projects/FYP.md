@@ -126,8 +126,8 @@ This structure helps ensure the estimator is tested across:
 
 ## 10) Tools
 - **Python** (experiments, benchmarking, plots, workflow automation)
-- **MATLAB** (modeling/validation tasks as needed)\
-- **Excel** 
+- **MATLAB** (modeling/validation tasks as needed)
+- **Excel**  (comparison and experiment results)
 
 
 ## 11) Media (Figures / Plots)
