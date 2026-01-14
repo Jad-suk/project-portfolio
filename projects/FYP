@@ -117,13 +117,6 @@ This structure helps ensure the estimator is tested across:
 - behavior under congested vs non-congested conditions,
 - sensitivity to magnitude of perturbations.
 
-> **To fill when finalized:**
-> - Speedup: **X× faster**
-> - MAE: **Y**
-> - Max error: **Z**
-> - Scenarios evaluated: **N**
-> - Operating points: **(e.g., hourly points over 2 weeks)**
-
 ---
 
 ## 8) Current Status (In progress)
@@ -143,24 +136,13 @@ This structure helps ensure the estimator is tested across:
 
 ## 10) Tools
 - **Python** (experiments, benchmarking, plots, workflow automation)
-- **MATLAB** (modeling/validation tasks as needed)
+- **MATLAB** (modeling/validation tasks as needed)\
+- **Excel** 
 
 ---
 
 ## 11) Media (Figures / Plots)
-Upload figures into: `assets/lmp-estimation/` then link them here.
 
-Recommended figures (even simple ones look great):
-- workflow / pipeline diagram
-- estimated vs reference scatter/line plot
-- error distribution plot
-- runtime comparison plot
-
-Example links:
-- ![Pipeline](../assets/lmp-estimation/pipeline.png)
-- ![Estimated vs Reference](../assets/lmp-estimation/estimated-vs-reference.png)
-- ![Error Distribution](../assets/lmp-estimation/error-hist.png)
-- ![Runtime Comparison](../assets/lmp-estimation/runtime.png)
 
 ---
 
