@@ -11,8 +11,9 @@ The ball-and-beam system is inherently unstable: small beam angle changes can ca
 
 ## Approach
 - Developed the mathematical model of the system and implemented it in simulation.
-- Designed a feedback controller and tuned it to meet stability and performance requirements.
 - Validated performance using simulated step/reference tracking and disturbance response.
+- Designed and tuned PI and PID feedback controllers to stabilize the system and achieve           reference tracking, comparing performance trade-offs in simulation.
+- Designed an LQR controller using a state-space formulation and weighting matrices
 
 ## Results
 - Achieved stable closed-loop behavior in simulation.
