@@ -24,5 +24,3 @@ https://github.com/Jad-suk/project-portfolio/tree/main/assets/quiet-fan
 ## Tools / Methods
 Lab testing, measurement & analysis (SPL meter, airflow measurement, anenomter, solidworks)
 
-## Notes
-Public summary only. Detailed documentation and additional material available upon request.
