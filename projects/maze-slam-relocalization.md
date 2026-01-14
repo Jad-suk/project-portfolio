@@ -4,6 +4,15 @@
 **Platform:** Mobile robot (LEGO NXT-based) + simulation twin (Gazebo SDF)  
 **Scope:** Mapping + Localization + Navigation
 
+### One-line summary
+Developed an autonomous mobile robot stack for maze mapping, localization, and goal-directed navigation using a LEGO NXT-based robot and Gazebo simulation twin.
+
+### What I built
+- Implemented autonomous **exploration and occupancy-grid mapping** of unknown mazes.
+- Developed **relocalization and goal-reaching** capabilities using particle-filter-based localization.
+- Designed **planner and controller** for non-holonomic mobile robot navigation with collision avoidance.
+- Built a **reproducible simulation workflow** with launch scripts, map outputs, and short demo videos.
+
 ## Overview
 Built a simulation twin of a physical maze and developed an autonomous mobile-robot stack to:
 - **Task A:** Explore from a random start and build a consistent map.
