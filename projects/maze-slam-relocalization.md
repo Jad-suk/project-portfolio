@@ -39,13 +39,15 @@ Built a simulation twin of a physical maze and developed an autonomous mobile-ro
 
 ## Deliverables
 - `worlds/maze.sdf` + models
-- Launch scripts / run commands + README
+- Launch scripts / run commands 
 - Final map output
 - Short videos: Task A + Task B
 - Report describing models, estimator choices, experiments, and ablations
 
 ## Media
 
+### Tools
+LEGO NXT, Gazebo (SDF), ROS / Python, occupancy-grid mapping, particle-filter localization, EKF, SLAM, FAST SLAM
 
 ## Notes
 Public summary only. Full implementation/code may be kept private and shared upon request when appropriate.
