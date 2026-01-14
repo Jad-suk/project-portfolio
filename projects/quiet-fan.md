@@ -25,7 +25,7 @@ Then link them here like this:
 - ![Result plot](../assets/quiet-fan/results-plot.png)
 
 ## Tools / Methods
-Lab testing, measurement & analysis (SPL meter, airflow measurement, MATLAB, solidworks)
+Lab testing, measurement & analysis (SPL meter, airflow measurement, anenomter, solidworks)
 
 ## Notes
 Public summary only. Detailed documentation and additional material available upon request.
