@@ -1,1 +1,1 @@
-# assets
+# project assets
