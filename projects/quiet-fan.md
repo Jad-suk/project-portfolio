@@ -19,10 +19,7 @@ Developed and validated design improvements for a low-noise cooling fan through 
 - (Optional) Add metrics here later: noise reduction (dB), airflow change, test repeatability improvements, etc.
 
 ## Media (Photos / Plots)
-Add your images to: `assets/quiet-fan/`  
-Then link them here like this:
-- ![Test setup](../assets/quiet-fan/test-setup.jpg)
-- ![Result plot](../assets/quiet-fan/results-plot.png)
+https://github.com/Jad-suk/project-portfolio/tree/main/assets/quiet-fan
 
 ## Tools / Methods
 Lab testing, measurement & analysis (SPL meter, airflow measurement, anenomter, solidworks)
