@@ -19,6 +19,7 @@ The ball-and-beam system is inherently unstable: small beam angle changes can ca
 - Produced response plots demonstrating tracking and improved stability.
 
 ## Media / Docs
+https://github.com/Jad-suk/project-portfolio/blob/main/assets/ball-and-beam.md/intro-LR-setup-modelling%20eq.pdf
 
 ## Tools
 MATLAB, Simulink
