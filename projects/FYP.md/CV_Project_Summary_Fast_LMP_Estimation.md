@@ -27,6 +27,7 @@ Developing a fast estimation workflow to predict **ΔLMP** under system variatio
 ## Tools
 - Python (experiments, benchmarking, plotting, workflow automation)  
 - MATLAB (modeling and validation support)
+- Excel  (data results and comparison)
 
 ---
 
