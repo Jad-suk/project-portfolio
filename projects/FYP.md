@@ -37,13 +37,6 @@ Estimate **ΔLMP** (change in LMPs) relative to a baseline operating point with 
 - the workflow, evaluation strategy, and non-sensitive figures,
 - high-level description of the estimation approach and benchmarking.
 
-**Kept private (to protect work):**
-- implementation details and code,
-- full datasets / scenario generators,
-- sensitive experiment configurations.
-
-Detailed technical material and code can be shared upon request when appropriate.
-
 
 ## 5) High-Level Methodology
 ### A) Baseline and reference (“ground truth”)
