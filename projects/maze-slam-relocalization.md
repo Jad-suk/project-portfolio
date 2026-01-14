@@ -36,14 +36,7 @@ Built a simulation twin of a physical maze and developed an autonomous mobile-ro
 - Report describing models, estimator choices, experiments, and ablations
 
 ## Media
-Upload to `assets/maze-slam/` and link here:
-- ![Maze / sim world](../assets/maze-slam/world.png)
-- ![Final map](../assets/maze-slam/final-map.png)
-- ![Relocalization result](../assets/maze-slam/relocalization.png)
 
-### Demo videos
-- Sim demo (Task A + B): [link]
-- Physical demo (Task A + B): [link]
 
 ## Notes
 Public summary only. Full implementation/code may be kept private and shared upon request when appropriate.
