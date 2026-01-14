@@ -45,6 +45,8 @@ Built a simulation twin of a physical maze and developed an autonomous mobile-ro
 - Report describing models, estimator choices, experiments, and ablations
 
 ## Media
+https://github.com/Jad-suk/project-portfolio/tree/main/assets/Maze-slam-relocalization
+## Demo Videos
 
 ### Tools
 LEGO NXT, Gazebo (SDF), ROS / Python, occupancy-grid mapping, particle-filter localization, EKF, SLAM, FAST SLAM
