@@ -4,13 +4,14 @@
 **Type:** Team project
 
 ## Overview
-A team-built interactive embedded system focused on responsive behavior and reliable hit detection, improved through iterative testing and calibration.
+Designed and built an interactive embedded game system with real-time hit detection and feedback, optimized for responsiveness and reliability through iterative testing and calibration.
 
 ## My Contributions
-- Contributed to the system design and integration approach for sensing + interaction flow.
-- Implemented and refined hit-detection logic and helped reduce false triggers through testing.
-- Tuned parameters to improve responsiveness and repeatability across different use cases.
-- Supported debugging and validation during real-world trials to improve stability.
+- Designed and implemented hit-detection logic using sensor fusion (accelerometer, load cell,      distance sensing) to distinguish valid strikes from noise.
+- Reduced false trigger events through threshold tuning, filtering, and real-world testing.
+- Calibrated system parameters to ensure consistent response timing and repeatability across       multiple users.
+- Debugged timing, sensor noise, and integration issues on ESP32 (C/C++), improving overall        system stability.
+- Participated in system integration and validation, contributing to a demo-ready prototype.
 
 ## Team Deliverables
 - Working system prototype and demo-ready behavior.
