@@ -27,4 +27,3 @@ A curated collection of project summaries and work samples.
 
 ## Contact
 - Email: jad7sukkarieh@gmail.com
-- phone: +961 81-027518
