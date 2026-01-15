@@ -22,7 +22,7 @@ A curated collection of project summaries and work samples.
 ➡️ [Open project page](projects/Star-Saber.md)
 
 ### 4) Fast LMP Estimation (Final Year Project)
-➡️ [Open project page](projects/https:/CV_Project_Summary_Fast_LMP_Estimation.md)
+➡️ [Open project page](projects/https:/FYP.md/CV_Project_Summary_Fast_LMP_Estimation.md)
 
 ### 5) Maze-Slam-Relocalization
 ➡️ [Open project page](projects/Maze-Slam-Relocalization.md)
