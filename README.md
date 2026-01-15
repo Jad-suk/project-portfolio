@@ -2,7 +2,7 @@
 
 A curated collection of project summaries and work samples.
 
-📄 **Portfolio (PDF):** [Download here](https://github.com/Jad-suk/project-portfolio/raw/main/assets/Jad_Sukkarieh_Project_Portfolio.pdf/projects_portfolio.pdf)
+📄 **Portfolio (PDF):** [Download here](https://github.com/Jad-suk/project-portfolio/raw/main/assets/Jad_Sukkarieh_Project_Portfolio.pdf/Jad_Sukkarieh projects_portfolio.pdf)
 
 
 > Note: Public pages contain high-level summaries to protect original work.
