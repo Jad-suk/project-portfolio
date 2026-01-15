@@ -24,6 +24,9 @@ A curated collection of project summaries and work samples.
 ### 4) Fast LMP Estimation (Final Year Project)
 ➡️ [Open project page](projects/lmp-estimation.md)
 
+### 5) Maze-Slam-Relocalization
+➡️ [Open project page](projects/maze-slam-relocalization.md)
+
 ---
 
 ## Contact
