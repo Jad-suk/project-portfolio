@@ -13,13 +13,13 @@ A curated collection of project summaries and work samples.
 ## Projects
 
 ### 1) Quiet Fan Development
-➡️ [Open project page](projects/quiet-fan.md)
+➡️ [Open project page](projects/Quiet-Fan.md)
 
 ### 2) Ball-and-Beam Control System
-➡️ [Open project page](projects/ball-and-beam.md)
+➡️ [Open project page](projects/Ball-and-Beam.md)
 
 ### 3) Star-Saber Interactive System
-➡️ [Open project page](projects/star-saber.md)
+➡️ [Open project page](projects/Star-Saber.md)
 
 ### 4) Fast LMP Estimation (Final Year Project)
 ➡️ [Open project page](projects/lmp-estimation.md)
