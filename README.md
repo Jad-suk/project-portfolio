@@ -25,7 +25,7 @@ A curated collection of project summaries and work samples.
 ➡️ [Open project page](projects/lmp-estimation.md)
 
 ### 5) Maze-Slam-Relocalization
-➡️ [Open project page](projects/maze-slam-relocalization.md)
+➡️ [Open project page](projects/Maze-Slam-Relocalization.md)
 
 ---
 
